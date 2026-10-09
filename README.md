@@ -57,23 +57,6 @@ Tenho interesse especial por **arquitetura de software, desenvolvimento backend,
 
 </div>
 
-
-## 🚀 Projetos
-
-Alguns dos projetos que estou desenvolvendo e utilizando para evoluir minhas habilidades:
-
-### 🦖 Catálogo de Dinossauros
-
-Aplicação desenvolvida para praticar conceitos de **Java + Spring Boot**, incluindo:
-
-- API REST
-- Spring Data JPA
-- Persistência de dados
-- DTOs
-- Validação
-- Arquitetura em camadas
-- Integração com banco de dados
-
 ## 🌐 Vamos nos conectar?
 
 <div align="left">
