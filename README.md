@@ -57,42 +57,6 @@ Tenho interesse especial por **arquitetura de software, desenvolvimento backend,
 
 </div>
 
-### Cloud & DevOps
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-
-</div>
-
----
-
-## 🏗️ Arquitetura & Engenharia de Software
-
-Tenho interesse e venho aprofundando meus conhecimentos em:
-
-```text
-• APIs REST
-• Spring Boot
-• JPA / Hibernate
-• DTOs
-• Bean Validation
-• Arquitetura Hexagonal
-• Clean Architecture
-• Design Patterns
-• Banco de Dados
-• Integração entre sistemas
-• Microsserviços
-• Cloud Computing
-• Docker
-• Boas práticas de código
-```
-
----
 
 ## 🚀 Projetos
 
@@ -109,33 +73,6 @@ Aplicação desenvolvida para praticar conceitos de **Java + Spring Boot**, incl
 - Validação
 - Arquitetura em camadas
 - Integração com banco de dados
-
-### 🎮 Catálogo de Jogos
-
-Projeto desenvolvido para aprofundar conhecimentos em:
-
-- Java
-- Spring Boot
-- JPA / Hibernate
-- REST API
-- PostgreSQL
-- Modelagem de entidades
-
-> 💡 Estou constantemente adicionando novos projetos ao meu GitHub para transformar conhecimento teórico em experiência prática.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolyKethylin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyKethylin&layout=compact&theme=tokyonight&langs_count=8"/>
-
-</div>
-
----
 
 ## 🌐 Vamos nos conectar?
 
